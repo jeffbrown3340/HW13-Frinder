@@ -37,10 +37,11 @@ module.exports = function(app) {
 	// 	return res.send("No Waiting List item found for " + cID);
 	// });
 
-	// app.post("/api/tables", function(req, res){
-	// 	var newTable = req.body;
-	// 	newTable.customerID = newTable.customerID.replace(/\s+/g, "");
-	// 	tables.push(newTable);
-	// 	res.json(tables);
-	// });
+	app.post("/api/friends", function(req, res){
+		// var newTable = req.body;
+		var myNewFriend = {"name": "Isaac", "photo": "..\data\isaac.JPG"};
+		// newTable.customerID = newTable.customerID.replace(/\s+/g, "");
+		// tables.push(newTable);
+		res.json(myNewFriend);
+	});
 }

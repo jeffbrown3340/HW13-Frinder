@@ -4,15 +4,63 @@ var friends = [
 	  "photo":"../../../images/tiffany.JPG",
 	  "scores":[
 	      5,
+	      5,
+	      5,
+	      5,
+	      5,
+	      5,
+	      5,
+	      5,
+	      5,
+	      5
+	    ]
+	},
+	{
+	  "name":"Harold",
+	  "photo":"../../../images/harold.JPG",
+	  "scores":[
 	      1,
-	      4,
+	      1,
+	      1,
+	      1,
+	      1,
+	      1,
+	      1,
+	      1,
+	      1,
+	      1
+	    ]
+	},
+	{
+	  "name":"Isaac",
+	  "photo":"../../../images/isaac.JPG",
+	  "scores":[
+	      5,
 	      4,
 	      5,
+	      4,
+	      5,
+	      4,
+	      5,
+	      4,
+	      5,
+	      4
+	    ]
+	},
+	{
+	  "name":"Xenon",
+	  "photo":"../../../images/xenon.JPG",
+	  "scores":[
 	      1,
 	      2,
-	      5,
-	      4,
-	      1
+	      1,
+	      2,
+	      1,
+	      2,
+	      1,
+	      2,
+	      1,
+	      2
 	    ]
 	}
 ]
