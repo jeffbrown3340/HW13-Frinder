@@ -1,5 +1,7 @@
 var friends = require("../data/friends.js");
 // var waitingList = require("../data/waitinglistData.js");
+var path = require("path");
+
 
 module.exports = function(app) {
 
@@ -39,7 +41,8 @@ module.exports = function(app) {
 
 	app.post("/api/friends", function(req, res){
 		// var newTable = req.body;
-		var myNewFriend = {"name": "Isaac", "photo": "..\data\isaac.JPG"};
+		// var myNewFriend = {"name": "Isaac", "photo": "../data/isaac.JPG"};
+		var myNewFriend = {"name": "Isaac", "photo": path.join(__dirname, "../data/isaac.JPG")};
 		// newTable.customerID = newTable.customerID.replace(/\s+/g, "");
 		// tables.push(newTable);
 		res.json(myNewFriend);
