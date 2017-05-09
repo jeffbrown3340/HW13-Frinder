@@ -311,6 +311,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/data/friends.js",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -361,16 +369,18 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/routing/apiRoutes.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/data/friends.js",
+		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/routing/apiRoutes.js",
+		"/C/Users/Brown/Desktop/ucf_working/HW13/git/server.js",
+		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/routing/htmlRoutes.js",
+		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/public/survey.html",
+		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/git1/README.md",
+		"/C/Users/Brown/Desktop/ucf_working/HW13/git/README.md",
 		"/C/Users/Brown/Desktop/ucf_working/A7-Characters/app/data/characters.js",
 		"/C/Users/Brown/Desktop/ucf_working/A7-Characters/app/routing/apiRoutes.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/01-HotRestaurant/app/data/tableData.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/public/home.html",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/01-HotRestaurant/app/routing/apiRoutes.js",
-		"/C/Users/Brown/Desktop/ucf_working/HW13/git/server.js",
-		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/routing/htmlRoutes.js",
-		"/C/Users/Brown/Desktop/ucf_working/HW13/git/app/public/survey.html",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/01-HotRestaurant/server.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/git/hw13Frinder.sublime-project",
 		"/C/Users/Brown/Desktop/ucf_working/A7-Characters/package.json",
@@ -387,7 +397,6 @@
 		"/C/ucf_git/Debugging/20170309/TBD/assets/js/index.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW13/index.html",
 		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/bamazonCustomer.js",
-		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/git1/README.md",
 		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/Bamazon-schema.sql",
 		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/testFx.js",
 		"/C/Users/Brown/Desktop/ucf_working/HW12-MySQL/testCallback.js",
@@ -487,8 +496,7 @@
 		"/C/Users/Brown/ucf_working/AdventureGo/git3340/index.html",
 		"/C/Users/Brown/ucf_working/sample_objects.html",
 		"/C/Users/Brown/ucf_working/AdventureGo/git/eventful_api.html",
-		"/C/Users/Brown/ucf_working/AdventureGo/git/index_jeff1.html",
-		"/C/Users/Brown/ucf_working/AdventureGo/eventful_api_original_sample_code.html"
+		"/C/Users/Brown/ucf_working/AdventureGo/git/index_jeff1.html"
 	],
 	"find":
 	{
@@ -732,8 +740,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/data/friends.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
