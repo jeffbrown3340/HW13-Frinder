@@ -1,7 +1,7 @@
 var friends = [
 	{
-	  "name":"Tiffany",
-	  "photo":"../../../images/tiffany.JPG",
+	  "name":"Ashley",
+	  "photo":"https://raw.githubusercontent.com/jeffbrown3340/jeffbrown3340.github.io/master/assets/images/ashleyjudd.PNG",
 	  "scores":[
 	      5,
 	      5,
@@ -16,8 +16,8 @@ var friends = [
 	    ]
 	},
 	{
-	  "name":"Harold",
-	  "photo":"../../../images/harold.JPG",
+	  "name":"George",
+	  "photo":"https://raw.githubusercontent.com/jeffbrown3340/jeffbrown3340.github.io/master/assets/images/georgeclooney.PNG",
 	  "scores":[
 	      1,
 	      1,
@@ -32,8 +32,8 @@ var friends = [
 	    ]
 	},
 	{
-	  "name":"Isaac",
-	  "photo":"../../../images/isaac.JPG",
+	  "name":"Tom",
+	  "photo":"https://raw.githubusercontent.com/jeffbrown3340/jeffbrown3340.github.io/master/assets/images/tomcruise.PNG",
 	  "scores":[
 	      5,
 	      4,
@@ -48,8 +48,8 @@ var friends = [
 	    ]
 	},
 	{
-	  "name":"Xenon",
-	  "photo":"../../../images/xenon.JPG",
+	  "name":"Jennifer",
+	  "photo":"https://raw.githubusercontent.com/jeffbrown3340/jeffbrown3340.github.io/master/assets/images/jenniferlawrence.PNG",
 	  "scores":[
 	      1,
 	      2,
@@ -61,6 +61,22 @@ var friends = [
 	      2,
 	      1,
 	      2
+	    ]
+	},
+	{
+	  "name":"Johnny",
+	  "photo":"https://raw.githubusercontent.com/jeffbrown3340/jeffbrown3340.github.io/master/assets/images/johnnydepp.PNG",
+	  "scores":[
+	      5,
+	      4,
+	      3,
+	      2,
+	      1,
+	      2,
+	      3,
+	      4,
+	      5,
+	      4
 	    ]
 	}
 ]
